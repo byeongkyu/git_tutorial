@@ -1,2 +1,6 @@
-This is file1.txt.
+This is file1.txt of modified
 My first file in github.com
+
+Add some lines:
+	First line
+	Second line
